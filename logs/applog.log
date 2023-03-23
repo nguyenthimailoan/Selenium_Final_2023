@@ -1,0 +1,40 @@
+[INFO] 23-03-2023 10:22:44 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:22:51 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:22:51 [main] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 10:22:52 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 10:22:52 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 10:22:52 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 10:22:52 [main] LogUtils - Set text admin@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 10:22:52 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 10:22:56 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 10:23:02 [main] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is passed.
+[INFO] 23-03-2023 10:23:07 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:23:07 [main] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 10:23:09 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 10:23:09 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 10:23:09 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 10:23:09 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 10:23:09 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 10:23:10 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[ERROR] 23-03-2023 10:23:10 [main] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is failed.
+[ERROR] 23-03-2023 10:23:11 [main] LogUtils - java.lang.AssertionError: Login không thành công. expected [true] but found [false]
+[INFO] 23-03-2023 10:44:55 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:45:03 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:45:03 [main] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 10:45:05 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 10:45:05 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 10:45:05 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 10:45:05 [main] LogUtils - Set text admin@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 10:45:05 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 10:45:10 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 10:45:15 [main] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is passed.
+[INFO] 23-03-2023 10:45:20 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 10:45:20 [main] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 10:45:21 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 10:45:21 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 10:45:21 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 10:45:22 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 10:45:22 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 10:45:23 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[ERROR] 23-03-2023 10:45:23 [main] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is failed.
+[ERROR] 23-03-2023 10:45:23 [main] LogUtils - java.lang.AssertionError: Login không thành công. expected [true] but found [false]

@@ -1,0 +1,105 @@
+[INFO] 23-03-2023 14:20:40 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:20:46 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:20:46 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 14:20:46 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 14:20:47 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 14:20:47 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 14:20:48 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 14:20:48 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 14:20:48 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 14:20:50 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 14:20:50 [main] LogUtils - Get text of element By.xpath: //div[@class='text-center alert alert-danger']
+[INFO] 23-03-2023 14:20:50 [main] LogUtils - ==> Text: Invalid email or password
+[INFO] 23-03-2023 14:20:50 [main] LogUtils - Test case loginTestInvalidEmail is passed.
+[INFO] 23-03-2023 14:35:12 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:35:17 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:35:17 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 14:35:17 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 14:35:19 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 14:35:19 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 14:35:19 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 14:35:19 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 14:35:20 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 14:35:21 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 14:35:21 [main] LogUtils - Get text of element By.xpath: //div[@class='text-center alert alert-danger']
+[INFO] 23-03-2023 14:35:21 [main] LogUtils - ==> Text: Invalid email or password
+[INFO] 23-03-2023 14:35:21 [main] LogUtils - Test case loginTestInvalidEmail is passed.
+[INFO] 23-03-2023 14:38:46 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:38:55 [TestNG-PoolService-2] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:38:55 [TestNG-PoolService-2] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:55 [TestNG-PoolService-2] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-1] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-1] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-1] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-0] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-0] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-0] LogUtils - Running test case loginTest3
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-2] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-2] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 14:38:56 [TestNG-PoolService-2] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 14:38:57 [TestNG-PoolService-1] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 14:38:57 [TestNG-PoolService-2] LogUtils - Set text admin3@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 14:38:57 [TestNG-PoolService-1] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 14:38:57 [TestNG-PoolService-2] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 14:38:57 [TestNG-PoolService-1] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-0] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-0] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-0] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-1] LogUtils - Set text admin2@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-0] LogUtils - Set text admin@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 14:38:58 [TestNG-PoolService-1] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 14:38:59 [TestNG-PoolService-0] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 14:38:59 [TestNG-PoolService-2] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[ERROR] 23-03-2023 14:38:59 [TestNG-PoolService-2] LogUtils - Test case loginTest3 is failed.
+[ERROR] 23-03-2023 14:38:59 [TestNG-PoolService-2] LogUtils - java.lang.AssertionError: Login không thành công. expected [true] but found [false]
+[INFO] 23-03-2023 14:39:00 [TestNG-PoolService-1] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[ERROR] 23-03-2023 14:39:00 [TestNG-PoolService-1] LogUtils - Test case loginTest3 is failed.
+[ERROR] 23-03-2023 14:39:01 [TestNG-PoolService-1] LogUtils - java.lang.AssertionError: Login không thành công. expected [true] but found [false]
+[INFO] 23-03-2023 14:39:03 [TestNG-PoolService-0] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 14:39:09 [TestNG-PoolService-0] LogUtils - Test case loginTest3 is passed.
+[INFO] 23-03-2023 16:55:28 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 16:55:36 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 16:55:36 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 16:55:36 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 16:55:38 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 16:55:38 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 16:55:38 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 16:55:38 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 16:55:38 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 16:55:40 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 16:55:40 [main] LogUtils - Get text of element By.xpath: //div[@class='text-center alert alert-danger']
+[INFO] 23-03-2023 16:55:40 [main] LogUtils - ==> Text: Invalid email or password
+[INFO] 23-03-2023 16:55:40 [main] LogUtils - Test case loginTestInvalidEmail is passed.
+[INFO] 23-03-2023 17:10:42 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 17:10:52 [TestNG-test=Login Test on Chrome-1] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 17:10:52 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 17:10:52 [TestNG-test=Login Test on Chrome-1] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 17:10:53 [TestNG-test=Login Test on Chrome-1] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 17:10:53 [TestNG-test=Login Test on Chrome-1] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 17:10:53 [TestNG-test=Login Test on Chrome-1] LogUtils - Set text admin@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 17:10:53 [TestNG-test=Login Test on Chrome-1] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 17:10:57 [TestNG-test=Login Test on Chrome-1] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 17:11:02 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is passed.
+[INFO] 23-03-2023 17:11:07 [TestNG-test=Login Test on Chrome-1] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 17:11:07 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginTestFromDataProviderReadExcelCustomRow
+[INFO] 23-03-2023 17:11:08 [TestNG-test=Login Test on Chrome-1] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 17:11:08 [TestNG-test=Login Test on Chrome-1] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 17:11:08 [TestNG-test=Login Test on Chrome-1] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 17:11:08 [TestNG-test=Login Test on Chrome-1] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 17:11:08 [TestNG-test=Login Test on Chrome-1] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 17:11:10 [TestNG-test=Login Test on Chrome-1] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[ERROR] 23-03-2023 17:11:10 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginTestFromDataProviderReadExcelCustomRow is failed.
+[ERROR] 23-03-2023 17:11:10 [TestNG-test=Login Test on Chrome-1] LogUtils - java.lang.AssertionError: Login không thành công. expected [true] but found [false]
+[INFO] 23-03-2023 17:51:01 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 17:51:08 [main] LogUtils - Loaded all properties file.
+[INFO] 23-03-2023 17:51:08 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 17:51:08 [main] LogUtils - Running test case loginTestInvalidEmail
+[INFO] 23-03-2023 17:51:09 [main] LogUtils - Open URL: https://crm.anhtester.com/admin/authentication
+[INFO] 23-03-2023 17:51:09 [main] LogUtils - Get text of element By.xpath: //h1
+[INFO] 23-03-2023 17:51:10 [main] LogUtils - ==> Text: Login
+[INFO] 23-03-2023 17:51:10 [main] LogUtils - Set text admin123@example.com on element By.xpath: //input[@id='email']
+[INFO] 23-03-2023 17:51:10 [main] LogUtils - Set text 123456 on element By.xpath: //input[@id='password']
+[INFO] 23-03-2023 17:51:11 [main] LogUtils - Click on element By.xpath: //button[normalize-space()='Login']
+[INFO] 23-03-2023 17:51:11 [main] LogUtils - Get text of element By.xpath: //div[@class='text-center alert alert-danger']
+[INFO] 23-03-2023 17:51:11 [main] LogUtils - ==> Text: Invalid email or password
+[INFO] 23-03-2023 17:51:11 [main] LogUtils - Test case loginTestInvalidEmail is passed.
